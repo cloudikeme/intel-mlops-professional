@@ -1,0 +1,43 @@
+# APIs in AI System Design
+
+In this tutorial we will dive into Application Programming Interfaces ( APIs) in the architecture of an AI system. APIs enable the interaction and communication between the different components within an AI system, facilitating the seamless integration of various services, data sources, and functionalities.
+
+## What is an API?
+
+An API (Application Programming Interface) is an interface or contract that specifies how different software components interacts, by defining:
+methods, 
+protocols, and  
+data formats 
+
+that can be used to communicate and exchange information.
+
+In the context of AI system, an API provides a standardized and controlled way for different components such as:
+
+Data Pipelines
+Machine Learning Models
+Inference Engines
+
+To communicate and share data.
+
+### APIs in Pipeline Architecture
+
+
+
+
+
+
+
+
+
+At the end of this section, we should:
+
+* Understand the role of APIs in the architecture of AI system and how they facilitate the integration of various services, data sources, and functionalities.
+
+* Learn how APIs function in different solution architectures - pipeline, event-based and layered artchitectures.
+
+* Discover the significance of RESTful APIs in designing networked applications and their principles.
+
+* Gain insights into how RESTful APIs enable the integration and use of AI functionalities in exisiting software applications or systems.
+
+* Understand how RESTful APIs contribute to distributed AI processing and continuous improvement of AI applications.
+
