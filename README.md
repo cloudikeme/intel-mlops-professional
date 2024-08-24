@@ -9,10 +9,10 @@ AI systems are built on the fundamental understanding that the Algorithms can ex
 `Information From Data`
 `AI System`
 
-System
-Data describes System
+Business System
+Data describes Business System
 AI System (Algorithm) extracts information from Data
-Using Information from Data, AI system (algorithms) forms a comprehensive understanding of System.
+Using Information from Data, AI system (algorithms) forms a comprehensive understanding of Business System.
 
 Accompanied by this understanding , is the hypothesis that implementing the AI system  will yield benefits like:
 
@@ -24,7 +24,17 @@ Accompanied by this understanding , is the hypothesis that implementing the AI s
 ## Enter FANCY ORCHARDS
 
 Fancy Orchards is a family owned business operating since 1965 that processes thousands of tons of Apples every year and ships them across the country to grocery stores.
+L
+et's analyze fancy Orchards operations for opportunities to introduce an AI solution.
 
 ### Business Operations Analysis
 
 Fancy Orchard's Operations consists of:
+
+* 1. Cultivation: FO plants and cares for Apple trees throughout the year
+* 2. Harvesting: FO harvests Apples during picking season
+* 3. Transporatation: FO transports harvested Apples to Proccessing facilities
+* 4. Processing & Packaging: FO processes and packages the Apples.
+* 5. Shipping: FO ships the packaged products to clients
+* 6. Business: Business Operations e.g narketing, customer service , etc
+
