@@ -16,6 +16,8 @@ Using Information from Data, AI system (algorithms) forms a comprehensive unders
 
 Accompanied by this understanding , is the hypothesis that implementing the AI system  will yield benefits like:
 
+### The Four (4) Pillars of AI System value
+
 1. Increased Speed
 2. Safety
 3. Accuracy
@@ -36,5 +38,7 @@ Fancy Orchard's Operations consists of:
 * 3. Transporatation: FO transports harvested Apples to Proccessing facilities
 * 4. Processing & Packaging: FO processes and packages the Apples.
 * 5. Shipping: FO ships the packaged products to clients
-* 6. Business: Business Operations e.g narketing, customer service , etc
+* 6. Business: Business Operations e.g marketing, customer service , etc
+
+### Mapping Each Operation Component to One Potential application of AI and the associated pillar of AI System value
 
