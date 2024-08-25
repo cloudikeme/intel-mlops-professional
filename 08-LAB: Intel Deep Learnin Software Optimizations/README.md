@@ -1,6 +1,8 @@
-### Lab Learning Objective: The lab teaches how to optimize deep learning using Intel's Extension for PyTorch and covers essential parallel computing concepts through OpenMP and NUMA systems. Students will also gain hands-on experience in setting OpenMP environment variables.
+Lab Duration: 30 min
 
-### Problem Statement: As a member of the AI engineering team at Fancy Orchards, our mandate is clear: improve operational efficiencies and enhance worker safety by applying computer vision and deep learning. We've set our sights on automating high-risk and labor-intensive tasks in the orchard and the factory.
+Lab Learning Objective: The lab teaches how to optimize deep learning using Intel's Extension for PyTorch and covers essential parallel computing concepts through OpenMP and NUMA systems. Students will also gain hands-on experience in setting OpenMP environment variables.
+
+Problem Statement: As a member of the AI engineering team at Fancy Orchards, our mandate is clear: improve operational efficiencies and enhance worker safety by applying computer vision and deep learning. We've set our sights on automating high-risk and labor-intensive tasks in the orchard and the factory.
 
 
 Made using AI with Nightcafe
@@ -10,7 +12,7 @@ Our first step involves basic testing on open-source datasets, with the long-ter
 
 Value of Exercise: This lab offers hands-on experience optimizing deep learning models using Intel's Extension for PyTorch, equipping the team to build more efficient and faster production-ready solutions. It also provides a deep dive into OpenMP and related environment variables, enabling more effective utilization of compute resources through parallelism.
 
-### Supplemental Foundational Knowledge - Parallel Computing and OpenMP:
+Supplemental Foundational Knowledge - Parallel Computing and OpenMP:
 
 OpenMP (Open Multi-Processing): OpenMP is an industry-standard API for writing multi-threaded applications. This API supports C, C++, and Fortran multi-platform shared-memory parallel programming.
 Importance in Optimizing Workloads: OpenMP allows you to parallelize your code without explicitly managing threads. By merely adding compiler directives (pragmas) in your code, OpenMP enables you to take advantage of multi-core processors more effectively. It helps in:
@@ -152,3 +154,4 @@ What is the benefit of using KMP_AFFINITY for fine-tuning thread placement, espe
 Setting OMP_NUM_THREADS to 6 limits the number of threads available to the workload during runtime. This can lead to optimized CPU utilization for specific tasks, potentially improving performance. However, it could also reduce performance if the task could benefit from more threads.
 Setting the dtype to "fp32" uses 32-bit floating-point numbers for computations, offering higher precision but potentially slower performance. On the other hand, "bf16" uses 16-bit floating-point numbers, which may result in faster computations but at the cost of reduced numerical precision.
 KMP_AFFINITY allows for more precise control over the placement of threads on physical processing units. This can improve cache locality and reduce the overhead of context switching, leading to substantial performance gains in deep learning tasks where even small optimizations can have a significant impact.
+ 
