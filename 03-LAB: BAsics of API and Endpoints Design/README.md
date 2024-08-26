@@ -6,14 +6,7 @@ Problem Statement: You have been recruited to Fancy Orchards' new AI Engineering
 Before starting, you want to establish some of the application's logic by building simple API endpoints. These endpoints are not connected to any machine-learning functionality at this point.
 
 
- 	Made with AI using Nightcafe.
- 
 
-  Access to Intel Developer Cloud Resource: 4th Generation Sapphire Rapids VM
-
-
-
-Image of VM configuration on Intel Developer Cloud
 
  
 
@@ -44,6 +37,7 @@ Add functionality to the maintenance endpoint: Adjust the maintenance endpoint t
 Add a new endpoint: Add an endpoint called supportbot that returns a hard-coded response of "bring the harvester in for maintenance" when prompted with the text string "help.”
 (Optional) Containerize the application: Package the API into a Docker container.
 Repeat step 2.d instructions with your version of this lab’s endpoint.
+
 Challenge Questions:
 How does FastAPI handle request routing and route parameterization?
 Explain the benefits of using asynchronous programming in FastAPI for handling API requests.
